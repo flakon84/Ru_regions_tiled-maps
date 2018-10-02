@@ -1,0 +1,19 @@
+Классификатор ОКАТО      ,,,
+--------------------------------------------------,,,
+Разделитель между полями ...... < ; >,,,
+Признак конца позиции(записи) - <    >,,,
+Объем выгрузки: Позиций - 195646,,,
+,,,
+field name,english description,russian description,format                         
+TER,region code,Код региона,varchar(2)
+ROD1,area code/city,Код района/города,varchar(3)
+KOD2,the code is a working village Council,Код рабочего поселка/сельсовета,varchar(3)
+KOD3,code rural locality,Код сельского населенного пункта,varchar(3)
+RAZDEL,code section,Код раздела,varchar(1)
+NAME1,the name of the site,Наименование территории,varchar(250)
+Centrum,additional information,Дополнительная информация,varchar(80)
+NomDescr,Описание,varchar(8000),
+NomAkt,Номер изменения,numerek(3),
+Status,Тип изменения,numerek(1),
+DateUtv,Дата принятия,data(10),
+DateVved,Дата введения,data(10),
