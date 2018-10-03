@@ -15,4 +15,4 @@
 ![](52_NizhnyNovgorod/52_RU_NN.png  )
 
 61-Ростовская область  | + | + | + | - |
-![](61_Rostov/61_RU_Rostov)
+![](61_Rostov/61_RU_Rostov.png)
